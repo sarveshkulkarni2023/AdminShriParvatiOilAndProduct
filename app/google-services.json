@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419222365870",
+    "project_id": "shriparvatioilproducts",
+    "storage_bucket": "shriparvatioilproducts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419222365870:android:1b3ffa992ad1b6cb9b6f3f",
+        "android_client_info": {
+          "package_name": "com.example.adminshriparvatioilandproduct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACZtb-5pN9txszxF1wVz6Q_sq3s0u8OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419222365870:android:6384ab21e9832d7c9b6f3f",
+        "android_client_info": {
+          "package_name": "com.sanjivani.shriparvatioilmill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACZtb-5pN9txszxF1wVz6Q_sq3s0u8OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
